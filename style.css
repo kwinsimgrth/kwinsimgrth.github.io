@@ -60,6 +60,10 @@
     
 }
 
+.card {
+    background-color: rgb(134, 139, 144);
+}
+
 footer{
     background-color: rgb(197, 197, 197);
     padding: 20px;
